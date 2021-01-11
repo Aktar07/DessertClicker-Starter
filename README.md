@@ -2,7 +2,8 @@ Introduction
 ------------
 
 DessertClicker is a game about making desserts. Press the button, make a dessert,
-earn the big bucks.
+earn the big bucks.In this app, an user "purchases" desserts by tapping on an image. Every time a dessert is clicked, the app updates the number of desserts purchased, 
+and the total amount the user spent.
 
 You will use this app to explore the Android lifecycle and log messages to
 the Android console (Logcat).
